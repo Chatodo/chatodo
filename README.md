@@ -17,12 +17,19 @@ Here are some ideas to get you started:
 👨‍💻 The BEST computer scientist in your area 🧠
 </h1>
 
-### 🎓 Currently pursuing a Master's Degree in Computer Science with a specialization [in Cybersecurity and e-health at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/)
+### 🔐 Research Engineer in secure embedded systems at [Inria](https://www.inria.fr/en) — firmware, BSP and hardware security on STM32
+
+### 🎓 MSc in Computer Science, [Cybersecurity track at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-master-cybersecurite/) (with highest honors)
 
 ### 🌐 [Visit my GitHub page](https://chatodo.github.io) to learn more about me !
 
-### 🌱 Interest in the Internet of Things, system/kernel programming, cryptography, reverse engineering, forensics
+### 🌱 Interest in embedded and system/kernel programming, hardware security, cryptography, reverse engineering, forensics
 
 ## 📈 GitHub statistics 🛠️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chatodo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/stats-organization/github-stats-extended">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=chatodo&layout=compact&hide=jupyter%20notebook&theme=dark_github">
+  <img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chatodo&layout=compact&hide=jupyter%20notebook&theme=light_github">
+</picture>
+</a>
